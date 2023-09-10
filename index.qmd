@@ -1,7 +1,30 @@
 ---
-title: "Mike McLaren"
+title: "Michael McLaren"
+about:
+  template: trestles
+  image: headshot.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michael-mclaren-835166ba/
+    - icon: github
+      text: Github
+      href: https://github.com/mikemc
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/mikemc423
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.ca/citations?hl=en&user=rWErWm4AAAAJ&view_op=list_works&sortby=pubdate
 ---
 
-This is a Quarto website.
+I'm Mike, a quantitative biologist with a background in evolutionary theory, population dynamics, and quantitative methods for studying microbiomes.
+Since early 2022, I have served as the scientific lead for the [Nucleic Acid Observatory (NAO) project](https://www.naobservatory.org/), first at MIT and now at [SecureBio](https://www.securebio.org).
+The NAO is a collaboration between SecureBio and [Kevin Esvelt's Sculpting Evolution group](https://sculptingevolution.org/) at MIT which is developing new methods to detect future pandemics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+From 2017--2022, I was a Postdoc with [Ben Callahan](https://callahanlab.cvm.ncsu.edu) at NC State University, where I worked on methods to improve the accuracy and reproducibility of microbiome measurements.
+
+Prior to that (2010--2016), I did a Ph.D. in Biology under [Marcus W. Feldman](https://www-evo.stanford.edu/marc.html), in which I developed mathematical theory to describe evolutionary dynamics in spatially structured populations.
+
+In my undergraduate studies (2005--2009), I studied mathematics, logic, and physics at the University of Pennsylvania.
+During that time, I worked in the [Devlin Lab](http://web.sas.upenn.edu/devlinlab/) on several telescope projects, spending 4 months at the [Atacama Cosmology Telescope](https://en.wikipedia.org/wiki/Atacama_Cosmology_Telescope) after graduation.
